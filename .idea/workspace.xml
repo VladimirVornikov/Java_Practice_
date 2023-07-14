@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="124f3b46-7026-432b-a7bd-9274cdb28308" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Contact.java" afterDir="false" />
-    </list>
+    <list default="true" id="124f3b46-7026-432b-a7bd-9274cdb28308" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Boxes">
+  <component name="RunManager" selected="Application.Vending">
     <configuration name="Boxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Boxes" />
       <module name="Practice1" />
@@ -59,8 +57,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Vending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vending" />
+      <module name="Practice1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Vending" />
         <item itemvalue="Application.Boxes" />
         <item itemvalue="Application.Contact" />
         <item itemvalue="Application.Program" />
