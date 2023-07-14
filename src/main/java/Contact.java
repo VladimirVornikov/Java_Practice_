@@ -6,10 +6,10 @@
 public class Contact {
     public static void main(String[] args) {
         //объявляем переменные
+
         String name = "Howard";
         //declare the age
         int age = 42;
-
         //выводим значения
         System.out.println(name+" is "+age+" years old.");
     }
